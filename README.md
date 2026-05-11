@@ -20,3 +20,9 @@ Frontend Developer focused on building clean and responsive web interfaces.
 ## Contact
 - 📧 humbeteliqurbanov@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/humbeteli-qurbanov-805999361/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humbeteli&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humbeteli&layout=compact&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=humbeteli&color=blue)
